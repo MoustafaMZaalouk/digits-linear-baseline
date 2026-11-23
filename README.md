@@ -26,12 +26,12 @@ These values are generated from `results.json`, not estimated or copied. Rerun t
 
 | Measure | Local result |
 | --- | ---: |
-|  / accuracy | 0.977778 |
-|  / macro f1 | 0.977641 |
-|  / majority accuracy | 0.102222 |
-|  / seed | 42 |
-|  / test rows | 450 |
-|  / train rows | 1347 |
+| Accuracy | 0.977778 |
+| Macro F1 | 0.977641 |
+| Majority accuracy | 0.102222 |
+| Seed | 42 |
+| Test rows | 450 |
+| Train rows | 1347 |
 
 `verification.txt` records the local test run. The included GitHub Actions workflow is a reproducible check, not a claim that remote CI has already passed.
 
