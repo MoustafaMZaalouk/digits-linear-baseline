@@ -1,5 +1,9 @@
 # Digits Linear Baseline
 
+[![CI](https://github.com/MoustafaMZaalouk/digits-linear-baseline/workflows/Reproducible%20project%20checks/badge.svg)](https://github.com/MoustafaMZaalouk/digits-linear-baseline/blob/main/.github/workflows/test.yml)
+
+*Live workflow status, not a production-readiness or model-quality rating.*
+
 Classify small grayscale digit images and inspect the most frequent confusion pairs.
 
 A small educational project prepared with AI assistance for Moustafa Zaalouk's portfolio. This is new demonstration code, not a claim about past employment, research, clients or production deployment. It does not reuse another person's project under a different name.
